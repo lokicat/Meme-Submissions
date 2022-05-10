@@ -1,6 +1,11 @@
 <!DOCTYPE html>
+
 <h1 id="title>To submit</h1>
+<h2>If you created the meme, and the meme is a file, input the following details.</h2>
 <ul>
-
-
+<li>Your username</li>
+<li>The file extension. For example: .jpg/.gif/.mp4/.mp3</li>
+<li>The resolution of the file (Not needed for audio).  For example: An HD file would be 1080p</li>
+</ul>
+</html>
 
